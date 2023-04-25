@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>perfecto resturant</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <p><h1>
+        perfecto resturant
+    </h1>
+        <h2>
+            <strong>perfecto is our resturant and everyones resturant we manage to make it perfect in everyway by making the food perfect with a high quality good price and a beautiful design and food art by make the service perfect and making the servent helpful friendly cheerful and a perfect design with joy full colors our goal is to make perfecto resturant your comfort zone place</strong>
+        </h2>
+            <h3><strong>to make our resturant comfortable let's take you in a trip in our kitchen and say hi to our chefs<br>
+            head chef<img src="head.jpg"width="100px" height="100px">
+            sous chef<img src="sous.jpg"width="100px" height="100px">
+            butcher chef<img src="but.jpg"width="100px" height="100px">
+            pastry chef<img src="pastry.jpg"width="100px" height="100px">
+            pantry chef<img src="pantry.jpg"width="100px" height="100px">
+            roast chef<img src="roast.jpg"width="100px" height="100px">
+            vegetable chef<img src="veg.jpg"width="100px" height="100px">
+        </strong>
+        </h3>
+       <h4><strong>
+        <b>Menu
+        <ul><li>appetizers,soups and salads</li>
+            <li>weekly specials,happy hour and brunch</li>
+            <li>sandwiches,burgers and entrees</li>
+            <li>desserts,drinks</li>
+        </ul>
+        </strong></h4>
+       <h5><strong>
+        let's take a tour in our kitchen <br>
+            <video width="320" height="240" controls>
+                <source src="tour.mp4" type="video/mp4">
+              </video><br>
+            you can also make reservation before going 
+            <form>
+            <label for="fname">First name:</label><br>
+            <input type="text" id="fname" name="fname"><br>
+            <label for="lname">phone number:</label><br>
+            <input type="text" id="lname" name="lname"><br>
+            <label for="lname">email:</label><br>
+            <input type="text" id="lname" name="lname"><br>
+            <label for="lname">day:</label><br>
+            <input type="text" id="lname" name="lname"><br>
+            <label for="lname">hour:</label><br>
+            <input type="text" id="lname" name="lname"><br>
+            <label for="lname">number of people coming:</label><br>
+            <input type="text" id="lname" name="lname"><br>
+          </form></strong>
+        </h5>
+        <h6><strong>
+            for the location check <br>
+            <iframe src="https://goo.gl/maps/qHa2eNEnJ5JW5SeY7" width="230" height="300"target="blank"></iframe>
+        </strong></h6>
+</p>
+</body>
+</html>
